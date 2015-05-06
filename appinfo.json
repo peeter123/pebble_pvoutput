@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "peter_oostewechel@hotmail.com",
+    "longName": "PVOutput",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "PVOutput",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "29c51f0f-61d3-40a3-b8d6-be4e478faf87",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
