@@ -1,38 +1,17 @@
 {
     "appKeys": {},
     "capabilities": [
-        "configurable"
+        ""
     ],
     "companyName": "peter_oostewechel@hotmail.com",
     "longName": "PVOUTPUT",
-    "projectType": "pebblejs",
+    "projectType": "native",
     "resources": {
-        "media": [
-            {
-                "file": "images/menu_icon.png",
-                "menuIcon": true,
-                "name": "IMAGE_MENU_ICON",
-                "type": "png"
-            },
-            {
-                "file": "images/logo_splash.png",
-                "name": "IMAGE_LOGO_SPLASH",
-                "type": "png"
-            },
-            {
-                "file": "images/tile_splash.png",
-                "name": "IMAGE_TILE_SPLASH",
-                "type": "png"
-            },
-            {
-                "file": "fonts/UbuntuMono-Regular.ttf",
-                "name": "MONO_FONT_14",
-                "type": "font"
-            }
-        ]
+        "media": []
     },
+    "sdkVersion": "3",
     "shortName": "PVOUTPUT",
-    "uuid": "1225d0e6-a7e4-4210-9bcf-88a2b65e4539",
+    "uuid": "3931d8a3-ed86-4323-b0f8-d495eae3e25c",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
